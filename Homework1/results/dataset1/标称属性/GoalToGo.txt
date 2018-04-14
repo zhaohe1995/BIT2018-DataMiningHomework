@@ -1,0 +1,5 @@
+Feature Name: GoalToGo
+Value Num: 3
+NA,840
+0,386826
+1,19990

@@ -1,0 +1,7 @@
+Feature Name: No_Score_Prob
+Missing Num: 176
+Max Num: 1.0
+Min Num: 0.0
+Average Num: 0.12780321366481012
+Median Num: 0.024765024094188626
+Quartile Num: 0.0027913815054474355, 0.17245247105983194

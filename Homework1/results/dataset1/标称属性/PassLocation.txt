@@ -1,0 +1,6 @@
+Feature Name: PassLocation
+Value Num: 4
+NA,240503
+right,67670
+left,60498
+middle,38985

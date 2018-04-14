@@ -1,0 +1,5 @@
+Feature Name: DefTwoPoint
+Value Num: 3
+NA,407632
+Failure,19
+Success,5

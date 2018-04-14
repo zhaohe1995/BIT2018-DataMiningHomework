@@ -1,0 +1,10 @@
+Feature Name: Permit_Type_Definition
+Value Num: 8
+new construction,349
+otc alterations permit,178844
+grade or quarry or fill or excavate,91
+additions alterations or repairs,14663
+sign - erect,2892
+wall or painted sign,511
+demolitions,600
+new construction wood frame,950

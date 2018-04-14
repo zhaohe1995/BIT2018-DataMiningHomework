@@ -1,0 +1,7 @@
+Feature Name: Estimated_Cost
+Missing Num: 38066
+Max Num: 537958646.0
+Min Num: 1.0
+Average Num: 168955.44329681533
+Median Num: 11000.0
+Quartile Num: 3300.0, 35000.0

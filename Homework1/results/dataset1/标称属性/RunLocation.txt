@@ -1,0 +1,6 @@
+Feature Name: RunLocation
+Value Num: 4
+NA,288155
+right,43528
+left,43154
+middle,32819

@@ -1,0 +1,4 @@
+Feature Name: QBHit
+Value Num: 2
+0,386018
+1,21638

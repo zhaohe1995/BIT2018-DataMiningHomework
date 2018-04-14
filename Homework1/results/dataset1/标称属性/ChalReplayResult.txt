@@ -1,0 +1,5 @@
+Feature Name: ChalReplayResult
+Value Num: 3
+NA,404255
+Upheld,1986
+Reversed,1415

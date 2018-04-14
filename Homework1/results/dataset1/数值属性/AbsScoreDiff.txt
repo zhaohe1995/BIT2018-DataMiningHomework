@@ -1,0 +1,7 @@
+Feature Name: AbsScoreDiff
+Missing Num: 26900
+Max Num: 59.0
+Min Num: 0.0
+Average Num: 7.784027040939605
+Median Num: 7.0
+Quartile Num: 3.0, 11.0

@@ -1,0 +1,7 @@
+Feature Name: Penalty_Yards
+Missing Num: 0
+Max Num: 66.0
+Min Num: 0.0
+Average Num: 0.6136546499990188
+Median Num: 0.0
+Quartile Num: 0.0, 0.0

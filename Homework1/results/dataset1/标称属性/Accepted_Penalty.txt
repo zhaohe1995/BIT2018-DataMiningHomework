@@ -1,0 +1,4 @@
+Feature Name: Accepted_Penalty
+Value Num: 2
+0,378159
+1,29497

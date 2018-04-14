@@ -1,0 +1,7 @@
+Feature Name: Opp_Touchdown_Prob
+Missing Num: 176
+Max Num: 0.4968742077888376
+Min Num: 0.0
+Average Num: 0.13997843552788106
+Median Num: 0.1240342551824005
+Quartile Num: 0.03983411151371629, 0.2264187135360383

@@ -1,0 +1,79 @@
+Feature Name: PenaltyType
+Value Num: 77
+Illegal Peelback,1
+Clipping, 15 yards, enforced at GB 27. Green Bay challenged the fumble ruling, and the play was REVERSED. A.Rodgers pass incomplete short right [A.Curry]. PENALTY on OAK-L.Houston, Clipping,1
+Taunting,11
+Unnecessary Roughness, 15 yards, enforced at PIT 33. The Replay Assistant challenged the fumble ruling, and the play was REVERSED. (Shotgun) E.Manuel pass incomplete short left. PENALTY on PIT-S.McLendon, Unnecessary Roughness,1
+Offensive Offside,35
+Fair Catch Interference,2
+Unnecessary Roughness,180
+Tripping,8
+Delay of Game,1196
+Defensive Offside,1524
+Roughing the Passer, 6 yards, enforced at TEN 12 - No Play. PENALTY on TEN-B.Orakpo, Unsportsmanlike Conduct, 3 yards, enforced between downs. PENALTY on TEN-B.Orakpo, Unsportsmanlike Conduct,1
+Running Into the Kicker,72
+False Start,5284
+Defensive Delay of Game,31
+Roughing the Kicker,2
+Offside on Free Kick,177
+Kickoff Out of Bounds,2
+Low Block,7
+Illegal Kick,1
+Invalid Fair Catch Signal,13
+Roughing the Passer,99
+NA,391230
+Illegal Block Above the Waist,245
+Horse Collar,2
+Illegal Receiver Pass,3
+Personal Foul, 15 yards, enforced between downs. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) A.Smith pass incomplete short middle to T.Kelce. PENALTY on SD-M.Te'o, Unnecessary Roughness,1
+Illegal Use of Hands,525
+Illegal Procedure,1
+Illegal Wedge,7
+Illegal Shift,210
+Neutral Zone Infraction,980
+Illegal Touch Kick,65
+Offensive Holding, 10 yards, enforced at PIT 28 - No Play. PENALTY on PIT-W.Colon, Unsportsmanlike Conduct,1
+Offensive Holding, 0 yards, enforced at MIA 30. PENALTY on SD-S.Ajirotutu, Disqualification,1
+Defensive Holding,1490
+Illegal Block Above the Waist, 5 yards, enforced at SF 10. Penalty on SF-B.Miller, Illegal Block Above the Waist, declined. PENALTY on SF, Unsportsmanlike Conduct,1
+Unsportsmanlike Conduct, 6 yards, enforced at STL 11. PENALTY on STL-K.Langford, Disqualification,1
+Illegal Bat,2
+Offensive 12 On-field,71
+Short Free Kick,2
+Personal Foul, 2 yards, enforced at OAK 4. Oakland challenged the incomplete pass ruling, and the play was REVERSED. B.Gradkowski pass incomplete short right. PENALTY on OAK-C.Carlisle, Personal Foul,1
+Defensive Holding, 1 yard, enforced at KC 2 - No Play. PENALTY on KC-M.Peters, Unsportsmanlike Conduct,1
+Chop Block,6
+Illegal Contact,556
+Unsportsmanlike Conduct, 9 yards, enforced at STL 18. PENALTY on STL-D.Stewart, Unsportsmanlike Conduct,1
+Defensive Pass Interference,590
+Ineligible Downfield Kick,86
+Player Out of Bounds on Punt,90
+Defensive 12 On-field,298
+Illegal Touch Pass,56
+Face Mask (15 Yards),93
+Illegal Forward Pass,69
+Personal Foul, 15 yards, enforced at NYJ 32. PENALTY on NYJ-W.Colon, Disqualification, 9 yards, enforced between downs. PENALTY on NYJ-D.Ferguson, Disqualification,1
+Ineligible Downfield Pass,131
+Horse Collar Tackle,29
+Defensive Offside, 5 yards, enforced at JAC 49 - No Play. Green Bay challenged the pass completion ruling, and the play was REVERSED. B.Gabbert pass incomplete deep right to J.Blackmon. PENALTY on GB-R.Pickett, Defensive Offside,1
+Delay of Kickoff,1
+Encroachment,526
+Offensive Pass Interference,54
+Disqualification,4
+Personal Foul,57
+Clipping,4
+Offensive Pass Interference, 10 yards, enforced at BAL 21 - No Play. PENALTY on BAL-D.Mason, Unsportsmanlike Conduct,1
+Face Mask (15 Yards), 15 yards, enforced between downs. The Replay Assistant challenged the runner broke the plane ruling, and the play was REVERSED. P.Thomas right guard to ATL 1 for 9 yards (W.Moore). PENALTY on ATL-W.Moore, Face Mask (15 Yards),1
+Illegal Substitution,106
+Offensive Holding,722
+Leverage,5
+Leaping,4
+Illegal Motion,114
+Illegal Crackback,1
+Illegal Blindside Block,10
+Unnecessary Roughness, 2 yards, enforced at PHI 5. PENALTY on PHI-A.Samuel, Delay of Game,1
+Intentional Grounding,27
+Illegal Formation,473
+Unnecessary Roughness, 3 yards, enforced at SF 7 - No Play. PENALTY on SF-D.Whitner, Unsportsmanlike Conduct,1
+Illegal Onside Kick,1
+Unsportsmanlike Conduct,48

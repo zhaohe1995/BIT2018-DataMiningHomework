@@ -1,0 +1,7 @@
+Feature Name: Touchdown_Prob
+Missing Num: 176
+Max Num: 0.9129632111833798
+Min Num: 0.0
+Average Num: 0.2959479734877878
+Median Num: 0.3136756165208305
+Quartile Num: 0.1912113660255105, 0.40770214490050805

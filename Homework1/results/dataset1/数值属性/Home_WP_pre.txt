@@ -1,0 +1,7 @@
+Feature Name: Home_WP_pre
+Missing Num: 24950
+Max Num: 1.0
+Min Num: 0.0
+Average Num: 0.534484726715004
+Median Num: 0.531266771004097
+Quartile Num: 0.3250871650819204, 0.7692559642735759

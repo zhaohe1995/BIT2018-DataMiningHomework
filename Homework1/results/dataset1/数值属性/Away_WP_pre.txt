@@ -1,0 +1,7 @@
+Feature Name: Away_WP_pre
+Missing Num: 24950
+Max Num: 1.0
+Min Num: 0.0
+Average Num: 0.46596754196236195
+Median Num: 0.4690666878142631
+Quartile Num: 0.23140834554867118, 0.6755542024894885

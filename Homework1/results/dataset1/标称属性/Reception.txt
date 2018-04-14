@@ -1,0 +1,4 @@
+Feature Name: Reception
+Value Num: 2
+0,306386
+1,101270

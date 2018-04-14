@@ -1,0 +1,4 @@
+Feature Name: Fire_Only_Permit
+Value Num: 2
+Y,18827
+Null,180073

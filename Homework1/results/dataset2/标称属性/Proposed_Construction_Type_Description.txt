@@ -1,0 +1,8 @@
+Feature Name: Proposed_Construction_Type_Description
+Value Num: 6
+constr type 3,9360
+wood frame (5),114382
+constr type 1,27841
+constr type 2,3778
+constr type 4,377
+Null,43162

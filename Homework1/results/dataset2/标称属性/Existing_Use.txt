@@ -1,0 +1,96 @@
+Feature Name: Existing_Use
+Value Num: 94
+amusement center,7
+residential hotel,1020
+theater,219
+r-3(dwg) nursing,4
+swimming pool,5
+christmas tree lot,18
+misc group residns.,113
+fence/retaining wall,9
+storage shed,113
+day care center,27
+day care home 7 - 12,4
+vacant lot,1813
+dairies/dairy equip.,1
+sign,5
+stadium,4
+tourist hotel/motel,1665
+bath house,2
+nursing home lte 6,5
+mortuary,15
+muni carbarn,37
+museum,146
+meat/produce marts,5
+accessory cottage,5
+moving & storage,30
+child care,1
+workshop residential,5
+Null,41114
+antenna,110
+dry cleaners,63
+car wash,11
+manufacturing,510
+club,124
+orphanage,1
+ambulance service,3
+roofing materials,1
+warehouse,no frnitur,870
+day care home gt 12,53
+filling/service stn,218
+sewage plant,4
+automobile sales,95
+prkng garage/public,207
+nursing home non amb,10
+nursing home gt 6,13
+office,24616
+food/beverage hndlng,4886
+chemical processing,9
+day care home lt 7,9
+artist live/work,448
+nite club,79
+muni driver restroom,3
+2 family dwelling,20987
+paint store,5
+massage parlor,78
+recreation bldg,179
+prkng garage/private,194
+parking lot,76
+sound studio,18
+greenhouse,27
+wholesale sales,27
+library,33
+prson'l svc tutor,5
+radio & tv stations,35
+temple,2
+jail,6
+warehouse, furniture,99
+social care facility,43
+storage tanks,6
+printing plant,69
+power plant,68
+hospital,38
+convalescent home,17
+lending institution,351
+school,674
+public assmbly other,196
+church,467
+auto repairs,336
+workshop commercial,189
+garment shops,40
+dance hall,24
+nursery(floral),9
+retail sales,6910
+tower,10
+phone xchnge/equip,36
+animal sale or care,59
+laundry/laundromat,99
+building materials,10
+health studios & gym,239
+apartments,40798
+barber/beauty salon,212
+clinics-medic/dental,581
+1 family dwelling,46766
+day care, non-res,41
+sfpd or sffd station,97
+adult entertainment,9

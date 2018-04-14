@@ -1,0 +1,1706 @@
+Feature Name: Street_Name
+Value Num: 1704
+Ridge,1
+Ledyard,26
+Key,12
+Cypress,22
+Newhall,61
+Calhoun,3
+Bartlett,196
+Howth,45
+Buena Vista Ave West,26
+Juanita,92
+Abbey,16
+Escolta,11
+Wayland,17
+Saint Germain,37
+44th,375
+Valerton,5
+Berkeley,15
+Judson,57
+Roanoke,39
+Lusk,5
+Cleveland,2
+Beatrice,4
+Parkridge,21
+Fresno,8
+Grant,604
+Reposa,8
+Ingalls,35
+36th,242
+Westgate,29
+Seneca,33
+San Gabriel,20
+Daniel Burnham,110
+Austin,13
+Cerritos,45
+Henry Adams,91
+Vermont,143
+Bergen,1
+Dorland,84
+Lunado,35
+Sutro Heights,14
+Paramount,15
+Rockwood,17
+Farragut,20
+La Salle,45
+Getz,7
+Hugo,74
+Broderick,889
+Hallam,6
+Hollywood,1
+Nantucket,3
+Harding,5
+Saint Francis,13
+Progress,5
+Stratford,51
+Pond,49
+Lilac,2
+Ignacio,1
+South,2
+Eagle,20
+Hubbell,7
+Gellert,37
+Laguna,575
+Dewey,36
+Santa Paula,32
+Southern Heights,9
+Excelsior,22
+Salinas,1
+Maddux,41
+Jose Sarria,1
+Albion,103
+Valletta,18
+Granville,52
+Olmstead,24
+Presidio,300
+Mississippi,187
+Front,238
+Cross,2
+Sheridan,8
+Shrader,294
+Winfield,124
+Aptos,26
+Underwood,30
+Tehama,122
+Dorantes,47
+Villa,23
+Lucy,15
+Westmoorland,14
+Sturgeon,3
+Napier,4
+Ingerson,37
+Circular,16
+Harris,1
+Sala,6
+Samoset,7
+Ward,8
+Hahn,22
+Bluxome,88
+Van Buren,15
+Heather,32
+Prado,4
+Krausgrill,3
+38th,293
+Bay Shore,151
+Cumberland,134
+Buena Vista,115
+Reed,1
+Elizabeth,255
+Parnassus,228
+Topaz,81
+Carmel,53
+Graystone,72
+Tompkins,17
+Wilde,35
+Burrows,40
+Rio,1
+Wayne,16
+El Verano,23
+Forest,1
+Delancey,34
+Mangels,147
+Gillette,1
+Bannan,5
+Imperial,2
+Cherry,47
+Noe,856
+Gambier,46
+Justin,75
+Converse,5
+Sylvan,33
+Tulane,3
+Hancock,100
+Stockton,805
+Keppler,1
+Mars,30
+Avenue G,2
+Midcrest,32
+Toyon,1
+Clearfield,27
+Russia,95
+Wilson,10
+Nahua,8
+Patton,13
+Mission St,2
+France,12
+Newcomb,106
+Dellbrook,124
+Lake Forest,10
+Crescent,140
+Brazil,64
+Berry,335
+Bob Kaufman,5
+Clipper,312
+Paulding,6
+Columbia Square,3
+Natoma,282
+Jack London,3
+Van Dyke,49
+Broad,75
+Helena,3
+Heyman,12
+Portola,154
+Galewood,34
+Darrell,20
+Funston,352
+Balboa,502
+33rd,367
+Bright,83
+Mccormick,11
+Turquoise,43
+Lakeview,72
+Salmon,6
+Dashiell Hammett,9
+Larkin,813
+Division,16
+Dartmouth,63
+Silverview,5
+Camp,18
+Winthrop,1
+Leo,3
+Gardenside,45
+Persia,27
+Ironwood,9
+Winding,43
+Naglee,23
+Birchwood,2
+Saint Elmo,16
+Oxford,56
+Elliot,3
+15th,1170
+Borica,30
+Hunters Point,2
+Hawes,12
+Butte,10
+Dearborn,9
+Jamestown,127
+Gladeview,20
+Blair,3
+Woolsey,41
+Roemer,1
+Melrose,89
+San Carlos,118
+Lake Merced Hill No,5
+Verna,2
+Glenbrook,7
+Barneveld,15
+Lakeshore,37
+Bruce,19
+Aladdin,6
+Walnut,84
+Rico,50
+Lawton,173
+Kittredge,7
+Cadell,5
+Elsie,159
+Beideman,12
+Santa Barbara,16
+Quesada,113
+Utah,190
+Vernon,55
+College,80
+Kirkham,256
+Colon,30
+Minnesota,161
+Woodside,29
+Lloyd,17
+Marina,143
+Kenwood,47
+Montecito,15
+Lawrence,8
+Foerster,97
+Coleridge,145
+Raymond,38
+Great,240
+Executive Park,19
+Hawthorne,265
+Mesa,6
+Newton,16
+Cameo,21
+Rutledge,44
+Bacon,39
+Priest,4
+Guttenberg,27
+Farnum,34
+Kiska,54
+Moultrie,110
+Situs To Be Assigned,5
+Charles,3
+Goethe,10
+Galilee,7
+Revere,198
+Rey,15
+Keith,36
+Knollview,20
+Francis,16
+Filbert,966
+Romain,50
+Turner,2
+Ocean,442
+Magnolia,10
+Heron,16
+Liebig,6
+30th,571
+Union,1462
+Jefferson,301
+Claremont,40
+Alameda,4
+Shipley,51
+Newman,50
+Pacific,1449
+Montclair,13
+Idora,46
+North Point,522
+Molimo,120
+Quint,17
+Market,5443
+Thomas Mellon,8
+Helen,5
+Merchant,1
+Carr,11
+Central,260
+Robblee,13
+Skyline,5
+Temescal,7
+Orsi,3
+Sutter,1342
+Grace,12
+Hill Point,7
+Edgehill,36
+Prescott,3
+Monticello,55
+Chilton,21
+Jakey,3
+Belmont,8
+Sumner,12
+Park Hill,13
+Octavia,442
+Penny,1
+Saint Josephs,15
+Golden Gate,690
+Laurel,102
+Prosper,52
+Reardon,10
+Melba,4
+28th,746
+Bernice,17
+Longview,12
+Tennessee,183
+Chattanooga,144
+Toland,26
+Cordova,22
+Dolores,1006
+Saint Joseph's,1
+Edith,5
+Juri,10
+Scenic,18
+Pfeiffer,17
+West Portal,199
+Columbus,335
+Allison,53
+Staples,80
+San Fernando,31
+Museum,42
+Sgt John V Young,3
+Espanola,2
+Burnett Ave North,15
+Avenue H,1
+Selby,8
+Velasco,6
+Valdez,53
+Habitat,39
+Santa Ysabel,11
+Fremont,601
+Card,6
+Armstrong,19
+Mendell,44
+Aztec,25
+Avenue D,3
+Leidesdorff,7
+Saddleback,1
+Cotter,38
+Detroit,31
+Eucalyptus,45
+Coventry,10
+Massasoit,14
+South Van Ness,616
+Balceta,24
+Almaden,15
+Huntington,17
+Valmar,26
+Industrial,16
+Twin Peaks,27
+Stanford,3
+Holladay,28
+07th,591
+Stoneyford,15
+Bessie,16
+Mansell,6
+Augusta,1
+Arlington,99
+Locksley,30
+Hiliritas,21
+Oak Park,65
+Greenview,4
+King,284
+Bass,3
+Valparaiso,32
+Anderson,171
+11th,562
+Brumiss,6
+Ames,1
+Fontinella,2
+Carrizal,6
+48th,299
+Ordway,17
+Alemany,207
+Cashmere,22
+Otter Cove,10
+Perine,16
+Harbor,55
+South Park,168
+Al Scoma,1
+Egbert,69
+Collins,84
+Bell,3
+Alice B Toklas,14
+Hanover,23
+Welsh,5
+Miley,6
+Ashbury,444
+South Hill,21
+Rivoli,21
+Lurmont,2
+Mullen,61
+Lake Merced Hill St North,15
+Perego,13
+Torney,1
+Byron,7
+Leese,30
+Battery,760
+Hayes,861
+Wallace,31
+Capra,27
+Beaver,92
+Oneida,2
+Rolph,52
+Bernal Heights,7
+Edgar,18
+Mallorca,156
+Cervantes,78
+Thor,5
+Brentwood,71
+Dublin,19
+Havens,1
+Crane,3
+St Marys,27
+Boylston,1
+Alton,6
+Teresita,206
+Hampshire,256
+Sansome,944
+Russell,8
+Maywood,37
+Cora,8
+Townsend,630
+Beaumont,55
+Delano,62
+Shotwell,328
+Addison,55
+Crags,13
+Nordhoff,23
+Boynton,7
+Embarcadero Center,807
+Shephard,2
+Starview,23
+Clementina,130
+Royal,2
+Adele,1
+St Josephs,5
+Judah,343
+Burnett North,5
+Telegraph,4
+Pixley,60
+Cottage,5
+Bitting,3
+Yerba Buena,113
+Moscow,70
+Williams,32
+Fortuna,7
+Flood,85
+Ford,33
+Letterman,1
+Turk Murphy,1
+39th,308
+Bemis,50
+Sharon,33
+Rankin,39
+Emery,2
+Berkshire,2
+Macedonia,6
+Josiah,11
+Ralston,74
+Avenue Of The Palms,13
+Sherman,1
+Clover,10
+Moraga,157
+Panama,3
+Bay View,9
+Italy,13
+Buena Vista East,115
+Amazon,17
+Whittier,16
+Ashton,52
+Bonita,7
+Unknown,1
+Rudden,17
+Sparta,10
+Walter,115
+Wool,48
+Moulton,10
+Watt,7
+London,66
+Edinburgh,2
+Hamerton,16
+Galvez,9
+Catalina,8
+Seville,16
+Huron,41
+Cardenas,4
+Lincoln,203
+San Felipe,27
+09th,864
+John,8
+Mint,61
+Medau,9
+Rousseau,25
+Glenview,36
+25th,997
+Hagiwara Tea Garden,6
+Edna,48
+Anza,414
+Scotland,3
+Junipero Serra,79
+San Lorenzo,6
+Mirabel,39
+De Haro,309
+Chapman,5
+Lake Merced Hill So,6
+Mission Bay Blvd North,65
+Decatur,8
+East Crystal Cove,1
+Font,3
+Temple,8
+Lapham,17
+Crestlake,50
+West Clay,37
+Laskie,2
+Arkansas,168
+Arelious Walker,25
+Manzanita,32
+Kensington,35
+Los Palmos,146
+Water,8
+Del Vale,11
+Moneta,18
+Venus,30
+Quintara,120
+Olive,3
+Derby,3
+Willie B Kennedy,1
+Wisconsin,175
+Rockridge,8
+Terry Francois,7
+Armory,4
+Springfield,18
+Zampa,6
+Cambon,20
+Rivera,92
+Maynard,59
+Bronte,37
+Palou,357
+Bryant,1000
+Bayview Park,3
+Hillview,1
+Harkness,31
+Mariner,6
+Mendosa,54
+Federal,16
+Santa Rita,15
+Craut,3
+Chenery,345
+Woodland,68
+37th,217
+Elm,13
+Washington,1214
+35th,439
+Russ,62
+Osceola,8
+Dr. Carlton B. Goodlett,4
+Vallejo,1244
+Yosemite,36
+Kelloch,3
+Commercial,62
+John Muir,5
+Haight,1017
+Sunview,18
+Gordon,1
+13th Ti,10
+Vidal,14
+Acton,1
+Alabama,432
+Uranus,33
+Winston,42
+Vasquez,34
+Marvel,3
+Belgrave,78
+Lake Merced Hill,4
+Mcallister,698
+Red Leaf,1
+Hazelwood,86
+Britton,9
+Knott,3
+Gateview,6
+Bird,10
+Belle,3
+Custer,1
+Stanyan,423
+Ceres,12
+Orben,28
+Silliman,39
+Cragmont,30
+Escondido,13
+Broadmoor,17
+08th Ti,2
+Tillman,1
+Norfolk,8
+Colby,50
+Romolo,3
+Olympia,18
+Rockdale,83
+Bosworth,82
+32nd,411
+Owens,143
+Orizaba,77
+Connecticut,198
+Drake,9
+Wabash,14
+Whitfield,3
+Lapidge,36
+Commonwealth,76
+Miguel,56
+Fanning,2
+Junior,6
+Sussex,84
+Dow,4
+Franconia,52
+Spear,807
+Cole,445
+Northgate,1
+Dorchester,14
+Broadway,1278
+Nob Hill,1
+Lowell,17
+New Montgomery,530
+Encanto,36
+Bancroft,27
+Aquavista,23
+Apparel,9
+Castillo,8
+Valencia,1045
+Paraiso,7
+Red Rock,64
+Allston,40
+Beulah,35
+Cayuga,179
+Loehr,10
+Sweeny,55
+Malta,25
+Flounder,2
+Lobos,53
+Ventura,19
+El Plazuela,2
+Reddy,7
+Norwich,12
+Giants,22
+Texas,106
+Green,1423
+Bradford,77
+Tara,25
+Forest View,29
+Athens,116
+Skyview,20
+Morris,3
+Brookdale,8
+Dolphin,2
+Marion,8
+Nido,5
+Mayflower,2
+Napoleon,18
+Burke,4
+Rosenkranz,6
+Pope,37
+Banbury,1
+Brighton,50
+Leavenworth,837
+Michigan,3
+Buena Vista Ave East,15
+Woodhaven,7
+Perry,3
+Avila,146
+Amherst,20
+Fountain,26
+Montcalm,70
+Clara,45
+Lily,30
+Montalvo,9
+Eastwood,34
+Agnon,9
+19th,1397
+Corwin,46
+Ottawa,23
+Clifford,96
+Winter,4
+47th,420
+Via Bufano,1
+Alma,27
+Pueblo,3
+Gold,8
+Fair Oaks,217
+La Playa,82
+Neptune,3
+Yale,29
+Mount Vernon,35
+Hill,209
+Wood,58
+Quane,4
+Hartford,144
+Encline,22
+Garces,2
+Sherwood,8
+Illinois,145
+Riverton,27
+Colonial,1
+Peters,5
+Paradise,9
+Swiss,11
+San Aleso,21
+Rossi,33
+Ravenwood,5
+Miraloma,33
+Danvers,23
+Roselyn,7
+Albatross,1
+Ivy,71
+Aloha,21
+Calgary,3
+Guerrero,750
+Coleman,8
+Talbert,22
+Beverly,40
+Mateo,21
+Raccoon,3
+Karen,5
+Ross,2
+Christopher,41
+Prague,66
+Striped Bass,2
+The Embarcadero,132
+Sloat,147
+Marsily,2
+Friedell,13
+Levant,34
+Alviso,14
+Acadia,22
+Rizal,2
+Dicha,1
+Ina,8
+Seward,45
+Scotia,24
+Mountain Springs,2
+Raleigh,7
+Moncada,28
+Evans,46
+Jackson,1552
+Ney,71
+Meadowbrook,34
+Lillian,5
+Greenwood,13
+Collingwood,255
+Hearst,82
+Rhine,6
+Saturn,80
+San Anselmo,36
+11th Ti,1
+Bennington,46
+Ardenwood,9
+Lois,8
+Nautilus,1
+Zircon,9
+Essex,4
+Whipple,9
+China Basin,34
+Fern,1
+Normandie,28
+Middlefield,26
+Harvard,36
+San Benito,35
+Mclea,5
+Randolph,55
+Richardson,14
+Havelock,22
+West Point,52
+Munich,85
+Palm,124
+Arbor,81
+Carmelita,43
+Elgin,53
+Ramona,75
+12th,516
+Steiner,648
+Chester,20
+Shafter,100
+Jennifer,1
+Kingston,12
+Greenwich,858
+Forest Knolls,10
+Fernwood,28
+Las Villas,5
+Gladstone,23
+Somerset,48
+14th,972
+Inca,7
+Wildwood,11
+Hidalgo,2
+San Leandro,46
+Tioga,33
+Beale,283
+Chain Of Lakes,1
+Mizpah,19
+Vicksburg,103
+Wanda,4
+Nobles,17
+Kimball,1
+Bishop,3
+Willard St North,1
+Midway,4
+Shaw,1
+Amethyst,19
+Onondaga,26
+Mirando,1
+Nebraska,16
+Apollo,21
+Charter Oak,13
+Vista View,6
+Gloria,7
+Moreland,29
+Mason,727
+Short,14
+Minerva,43
+Fairfield,10
+Ringold,21
+Euclid,56
+Regent,14
+Long Bridge,41
+Post,1568
+Congo,86
+Dorcas,1
+Montgomery,2403
+Kramer,3
+Bowling Green,4
+Horace,2
+Brook,2
+Hale,33
+Reno,1
+El Camino Del Mar,192
+Music Concourse,24
+Enterprise,5
+45th,432
+Virginia,39
+Barcelona,24
+Diamond Cove,34
+Corona,42
+Trinity,4
+Garnett,5
+Tunnel,13
+Santa Rosa,68
+Caselli,106
+Surrey,59
+Cresta Vista,109
+Kempton,6
+Silver,142
+01st,311
+Sycamore,56
+Phoenix,3
+Jessie,101
+Marietta,120
+Van Ness,1017
+Schwerin,14
+Ellis,415
+Dalewood,39
+Maiden,124
+Tamalpais,5
+Pleasant,25
+Adair,13
+Flournoy,16
+06th,748
+Sargent,44
+21st,1234
+Littlefield,10
+Kirkwood,225
+Brussels,87
+Vale,3
+Arnold,8
+Whiting,7
+Alpha,11
+Thornton,38
+Polk,672
+Montague,6
+Raycliff,7
+Crown,17
+Taraval,405
+Sanchez,815
+Gaviota,15
+Maple,60
+Terry A Francois,7
+Forest Side,56
+Douglass,363
+Denslowe,29
+Harry,2
+Campton,5
+Folsom,1776
+Rotteck,13
+Garfield,52
+Oshaughnessy,12
+Germania,43
+34th,447
+Treat,334
+Laguna Honda,54
+Freelon,24
+Canyon,8
+Gorham,10
+Orange,7
+Mckinnon,44
+Edinburg,116
+Turk,671
+Telegraph Hill,34
+Castle,13
+Latona,14
+Farallones,49
+Potrero,325
+Devonshire,13
+Caine,33
+Young,3
+Wetmore,27
+Vega,7
+Joice,8
+Grand View,185
+Vicente,164
+Tocoloma,25
+Taylor,822
+Northwood,15
+Park,56
+Goleta,4
+Estero,18
+Beckett,1
+Seminole,6
+Guy,23
+Peabody,23
+Gonzalez,6
+De Soto,40
+Ellsworth,235
+La Avanzada,14
+Woodward,68
+Lottie Bennett,2
+Irving,395
+Laussat,30
+San Rafael,13
+Atalaya,24
+Donner,31
+04th Ti,3
+Liberty,300
+Elmira,25
+La Grande,8
+Monterey,310
+Alder,1
+Robinson,9
+Falmouth,9
+San Jacinto,28
+Garrison,3
+Upland,36
+De Long,20
+Chicago,32
+Warren,140
+Seal Rock,54
+Brant,2
+Farview,17
+Pizarro,1
+Moore,9
+Plymouth,162
+Linda,74
+Crescio,2
+Jasper,31
+Bache,41
+Sea View,24
+Sadowa,52
+Lagunitas,9
+Clarion,1
+Page,862
+Scott,854
+Tucker,30
+Frederick,237
+Linares,7
+Ramsell,62
+Waller,649
+San Ramon,6
+San Jose,348
+Lathrop,9
+Cielito,7
+Loma Vista,3
+Santiago,95
+Rhode Island,429
+Inverness,20
+Badger,7
+08th,727
+Northridge,125
+Gladys,30
+Roosevelt,216
+Cortes,9
+Castenada,85
+Flora,13
+Magellan,86
+Amber,63
+Miramar,94
+Emerson,5
+Niantic,4
+Jerrold,223
+George,4
+Everglade,18
+Trenton,18
+Pioche,6
+Serrano,6
+Powell,788
+Santa Cruz,9
+10th,685
+Dehon,7
+Bayview,5
+Ruth,4
+Shore View,13
+Duboce,231
+Geary,1966
+41st,289
+17th,1458
+Peninsula,9
+Bepler,5
+Innes,108
+Drumm,40
+Whitney,119
+Manchester,52
+Phelan,10
+Redwood,7
+Clarence,4
+Eddy,571
+Moffitt,44
+Esmeralda,13
+Vista Verde,5
+Hernandez,21
+Conrad,23
+Castro,805
+Carnelian,21
+Montana,52
+Joy,21
+Redondo,2
+Virgil,11
+Bonview,64
+Chinook,3
+Cranleigh,3
+Kearny,708
+Stanford Heights,28
+Digby,22
+Felton,68
+Beach,495
+Eastman,8
+Willard,91
+Bella Vista,77
+Fielding,5
+Arleta,38
+Appleton,44
+Masonic,346
+Lyndhurst,3
+Chaves,12
+Gerke,9
+Brunswick,41
+Crestline,58
+Spruce,169
+Marin,78
+Rossmoor,8
+Ora,52
+Kissling,12
+Alvarado,246
+Bellair,6
+Woodacre,8
+Stow Lake,4
+Annapolis,9
+Girard,81
+Bret Harte,11
+Colin P Kelly Jr,1
+Natick,11
+Kansas,293
+High,11
+Knockash,1
+Marview,33
+Stonecrest,37
+Aerial,4
+Leland,91
+Naples,173
+29th,630
+Cabrillo,333
+Costa,10
+Benton,23
+Powhattan,22
+22nd,1153
+Allen,12
+Worth,2
+Arguello,383
+Florentine,11
+Sonoma,10
+Balmy,1
+Buena Vista West,64
+Brady,18
+Indiana,150
+Paloma,17
+Hyde,847
+Lenox,12
+Mountain Spring,27
+Tingley,54
+Southwood,14
+Alta Mar,4
+Harney,3
+Theresa,30
+Clayton,449
+Zoe,8
+Cunningham,1
+Bernard,72
+Stevenson,349
+Meade,7
+05th,608
+Vulcan,2
+Landers,118
+Cook,59
+San Andreas,12
+Fairmount,48
+Sierra,12
+Manor,34
+Cesar Chavez,498
+Gilman,53
+Lafayette,54
+Avenue I,2
+Higuera,1
+Dawson,5
+Jansen,10
+Rosie Lee,4
+Christmas Tree Point,5
+Teddy,32
+Carson,3
+Ripley,48
+Seymour,17
+Bertie Minor,3
+Santa Monica,14
+California,4587
+Alhambra,58
+Thomas More,6
+Lake,537
+Oceanview,8
+Cleary,23
+Gaven,35
+Carolina,156
+Naylor,17
+Lane,34
+Rutland,23
+Mclaren,14
+Fairfax,8
+Minna,267
+Agua,12
+Pine,1677
+Dr Carlton B Goodlett,4
+Cornwall,31
+Dodge,6
+Rodgers,2
+Cortland,216
+Shields,54
+Lamartine,5
+Langton,96
+Wentworth,3
+Clinton,75
+Mabrey,1
+Margaret,17
+Esquina,5
+Doric,1
+Rickard,3
+Del Monte,19
+Baltimore,41
+Graham,1
+09th Ti,1
+Ord,84
+Pretor,5
+Brompton,9
+Garlington,2
+25th North,26
+Chabot,9
+Majestic,34
+03rd,1819
+Diana,1
+Cyril Magnin,37
+Wills,4
+Head,81
+Pierce,658
+16th,1310
+Java,5
+Zoo,12
+Baker,608
+States,123
+San Pablo,48
+Victoria,119
+Oakdale,288
+Sunrise,3
+Powers,18
+Piedmont,20
+Rausch,46
+Fillmore,1033
+Retiro,39
+Bocana,90
+Carver,11
+Payson,5
+Dedman,1
+Moss,43
+John F. Shelley,1
+Baldwin,2
+Buckingham,40
+Vandewater,9
+Russian Hill,6
+Thomas,68
+Wawona,212
+Brush,2
+Quickstep,1
+Faith,10
+Kalmanovitz,7
+Danton,1
+Lakewood,1
+San Miguel,11
+Webster,827
+Toledo,58
+Hawkins,10
+Varennes,38
+Louisburg,23
+46th,321
+San Juan,24
+Robinhood,31
+Wilmot,12
+Pomona,9
+Peralta,176
+Hillway,11
+Precita,262
+Homewood,1
+Lindsay,2
+Avalon,45
+Caire,12
+Lee,34
+Faxon,91
+Nelson Rising,5
+Darien,77
+Byxbee,31
+Jennings,40
+Gennessee,35
+Rockaway,13
+Iowa,3
+Flint,5
+Hare,1
+Santa Fe,9
+Delgado,4
+Brannan,890
+Leroy,16
+Iris,48
+Merced,38
+Roach,2
+31st,352
+Saint Marys,1
+Kronquist,27
+Delmar,63
+Cooper,1
+Sickles,19
+Rebecca,5
+43rd,359
+Burnside,17
+Hester,3
+Henry,132
+Ankeny,7
+Arch,48
+Sheldon,12
+Diamond Heights,153
+White,8
+Sawyer,17
+Stillman,27
+Gould,2
+Seal Cove,19
+Newburg,22
+Church,765
+Brosnan,9
+Tuscany,1
+20th,1859
+Parque,6
+Pinehurst,33
+Potomac,34
+Argonaut,11
+Sunnydale,39
+Holly Park,46
+Ellington,46
+Overlook,2
+Palmetto,6
+Hopkins,13
+Hollister,56
+Wright,8
+Thrift,48
+Houston,4
+Niagara,62
+North View,2
+Wheeler,10
+El Mirasol,5
+Dunsmuir,7
+Locust,32
+Carl,238
+Mission,4209
+Marston,25
+23rd,1069
+Parker,216
+Lexington,178
+Gold Mine,128
+Dorado,61
+Tiffany,53
+Granada,39
+Hattie,25
+Fowler,8
+Keystone,35
+Erie,1
+Mill,16
+Murray,22
+Davis,116
+Gilbert,17
+Crisp,1
+Norton,14
+Peru,31
+Yukon,27
+Duncan,371
+Hamilton,51
+Otsego,39
+Madison,51
+San Buenaventura,6
+Chula,2
+Ridgewood,24
+Glover,52
+Sears,15
+Lydia,3
+Dixie,1
+Santos,8
+Waterville,15
+Noriega,358
+Meda,17
+Richards,1
+Rosella,8
+Cedro,10
+Missouri,233
+Williar,9
+Seacliff,80
+Yacht,1
+Rae,12
+Concord,36
+Day,173
+40th,322
+Lynch,1
+Otis,24
+Andover,147
+Modoc,8
+18th,1445
+Saint Charles,43
+Valley,232
+Arago,14
+Waldo,2
+Vienna,105
+Visitacion,28
+Grafton,53
+Hodges,5
+Holloway,95
+Lake Merced Hill St South,26
+Geneva,185
+Gough,591
+Entrada,16
+Arballo,15
+Eureka,262
+Goettingen,94
+Harrison,904
+Oakwood,38
+Argent,4
+Evelyn,35
+Clement,568
+Bayside,2
+Vesta,8
+Homestead,41
+Lomita,14
+Clyde,9
+Stillings,40
+Sydney,3
+Service,2
+Lupine,43
+Everson,65
+Sequoia,21
+Princeton,54
+Annie,1
+Hudson,125
+Earl,31
+Western Shore,14
+Diamond,505
+Le Conte,31
+Foote,27
+Burnett,149
+Morningside,49
+Diaz,3
+Lucerne,11
+Mission Bay Blvd South,42
+West View,13
+Cedar,1
+Mccarthy,3
+John F Kennedy,6
+Myrtle,10
+Anzavista,32
+Ellert,37
+Jarboe,17
+Commer,2
+26th,1146
+Harper,28
+Dichiera,6
+Golden,2
+Capitol,145
+Hemway,4
+Madrid,122
+Irwin,5
+Lyell,7
+Burlwood,24
+Belcher,42
+Rose,17
+Lombard,1141
+Trumbull,26
+Quartz,3
+Alpine,142
+Avocet,23
+Stone,3
+Stoneman,8
+Mercedes,18
+Corbett,404
+Lisbon,106
+Ewing,43
+Hoffman,99
+Mercato,3
+Grove,602
+Rondel,10
+Parsons,15
+Polaris,9
+Lundy's,6
+Porter,10
+Dore,33
+San Antonio,3
+Kennedy,6
+Capp,452
+Bannock,2
+Cyrus,3
+02nd,1208
+Yorba,27
+Holyoke,44
+Loraine,4
+Grenard,5
+Meacham,1
+Nottingham,2
+Alta,23
+Madrone,66
+Godeus,14
+Havenside,5
+Bartol,1
+Cambridge,52
+Brotherhood,40
+Horne,16
+Hallidie,17
+Arco,1
+Hardie,1
+Genoa,6
+Jade,8
+Oriole,1
+Paul,66
+Lessing,1
+Fitzgerald,69
+Milton,34
+Waverly,34
+Oak,738
+Castle Manor,2
+Chestnut,981
+Sagamore,42
+2nd,9
+Oliver,10
+Birch,8
+Stark,1
+Palo Alto,14
+Jersey,211
+Santa Ynez,27
+Nevada,93
+August,3
+Gilroy,5
+Rosewood,29
+Hotaling,28
+Bertita,7
+Walter U Lum,5
+Navajo,28
+Terry A. Francois,72
+Sotelo,19
+Banks,123
+Summit,666
+Carpenter,8
+Santa Ana,42
+Bellevue,3
+Spofford,10
+Sacramento,1630
+Glendale,18
+Clairview,19
+San Marcos,25
+Elk,14
+Randall,83
+Lake Merced,7
+Hillcrest,2
+Bay,577
+Bridgeview,74
+Osgood,6
+Auburn,2
+Elmhurst,2
+Omar,2
+Vine,1
+La Ferrera,2
+Cargo,4
+Rosemont,47
+Casitas,58
+Edward,4
+Upper,155
+Lippard,36
+Lurline,15
+04th,786
+Westwood,50
+Emmet,10
+Pasadena,6
+Cassandra,4
+Mono,2
+Bowdoin,48
+Harriet,78
+Oak Grove,4
+Burr,2
+24th,1361
+Steuart,71
+Arroyo,17
+Mission Rock,6
+El Sereno,17
+Lansdale,58
+27th,755
+Ritch,43
+Washburn,12
+Leona,7
+Hermann,102
+Country Club,74
+Beachmont,10
+Miller,20
+Stanton,8
+Ulloa,272
+Curtis,40
+Wilder,17
+Martin Luther King Jr,1
+York,339
+Peace,5
+Carroll,50
+Terrace,13
+Ofarrell,668
+Grattan,69
+Fredson,6
+Fallon,14
+Ortega,170
+Morse,18
+Congdon,3
+Nueva,15
+Stoneybrook,5
+Montezuma,27
+University,50
+Laura,10
+Willard North,30
+Gates,146
+Howard,1145
+Dorman,35
+Boutwell,15
+San Bruno,439
+Channel,27
+Belden,8
+Kent,9
+Eugenia,36
+Franklin,592
+Garcia,12
+Morrell,5
+Cutler,7
+Lundys,44
+Marsilly,4
+Santa Marina,34
+Jules,44
+Capistrano,55
+Fair,31
+Maritime,118
+Panorama,83
+Blanken,10
+Urbano,93
+Pacheco,185
+Marne,6
+Casa,28
+Reuel,20
+Ardath,2
+Highland,80
+Lucky,22
+Lyon,506
+Hickory,33
+Mayfair,3
+Colton,5
+Rome,20
+Tacoma,2
+Francisco,572
+Julian,43
+Harold,21
+Conkling,1
+Loomis,5
+Child,18
+Restani,12
+Harrington,18
+Delta,34
+Legion,1
+Mccoppin,41
+Macondray,20
+Culebra,11
+Cecilia,42
+Pennsylvania,139
+Edgewood,76
+Sproule,29
+De Montfort,17
+Redfield,3
+Beacon,20
+Florida,308
+Cleo Rand,7
+Deming,12
+Admiral,4
+Genebern,20
+Cascade,9
+Blake,41
+Clay,1274
+Fulton,940
+Exeter,20
+Bush,1402
+Ervine,11
+Cityview,27
+Isola,5
+Linden,91
+Mersey,1
+Exposition,3
+Middle Point,54
+Desmond,17
+Prentiss,97
+Shawnee,14
+Juan Bautista,1
+United Nations,10
+Kamille,2
+Joost,200
+Fell,706
+Windsor,1
+Jones,759
+Shakespeare,19
+Clarendon,85
+Rice,12
+Jordan,94
+Gabilan,2
+13th,4
+Richland,156
+O'farrell,105
+Santa Clara,37
+Roscoe,27
+Fella,1
+Mojave,1
+Marcela,2
+Waterloo,1
+Downey,149
+Topeka,30
+Main,361
+Martha,19
+Bowman,4
+Stanley,3
+Hoff,11
+Florence,5
+Griffith,75
+Baden,21
+Chancery,4
+Myra,69
+Lower,61
+Melra,2
+Palos,4
+Donahue,13
+Camellia,4
+Prospect,121
+Divisadero,963
+Sola,5
+Brewster,58
+Crestmont,34
+Coso,52
+Loyola,31
+42nd,335
+Lopez,11
+Isis,3
+Spencer,1
+Dwight,41
+Lansing,63
+Chumasero,12
+Sharp,2
+Hooper,41
+Pearl,51
+Campbell,47
+Paris,91
+Laidley,257
+Keyes,2
+Mountview,3
+Buchanan,617
+Julius,4
+Dawnview,19
+Mariposa,163
+Terra Vista,70
+Charlton,6
+Point Lobos,32
+Cuvier,29
+Belvedere,160
+Boardman,25
+Rosemary,2
+Phelps,42
+Putnam,50

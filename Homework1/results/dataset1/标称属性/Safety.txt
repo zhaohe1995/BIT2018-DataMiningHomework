@@ -1,0 +1,4 @@
+Feature Name: Safety
+Value Num: 2
+0,407498
+1,158

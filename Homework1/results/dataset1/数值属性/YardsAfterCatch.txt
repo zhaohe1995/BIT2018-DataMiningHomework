@@ -1,0 +1,7 @@
+Feature Name: YardsAfterCatch
+Missing Num: 0
+Max Num: 90.0
+Min Num: -81.0
+Average Num: 1.2526272151029298
+Median Num: 0.0
+Quartile Num: 0.0, 0.0

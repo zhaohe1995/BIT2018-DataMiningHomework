@@ -1,0 +1,7 @@
+Feature Name: TwoPoint_Prob
+Missing Num: 0
+Max Num: 0.4735
+Min Num: 0.0
+Average Num: 0.0007027187138175343
+Median Num: 0.0
+Quartile Num: 0.0, 0.0

@@ -1,0 +1,8 @@
+Feature Name: Existing_Construction_Type
+Value Num: 6
+3,9663
+4,381
+2,4068
+5,113350
+1,28072
+Null,43366

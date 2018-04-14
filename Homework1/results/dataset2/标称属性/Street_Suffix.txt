@@ -1,0 +1,24 @@
+Feature Name: Street_Suffix
+Value Num: 22
+Rd,389
+Wk,9
+Pk,128
+St,138358
+Wy,3540
+Al,83
+Hl,1
+Null,2768
+No,2
+Ct,667
+Sw,2
+Bl,3555
+Hy,240
+Av,43219
+Cr,97
+Pl,538
+Tr,1466
+Dr,3267
+So,2
+Rw,5
+Pz,210
+Ln,354

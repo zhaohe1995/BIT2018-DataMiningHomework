@@ -1,0 +1,7 @@
+Feature Name: Home_WP_post
+Missing Num: 26583
+Max Num: 1.0
+Min Num: 0.0
+Average Num: 0.5347861848409188
+Median Num: 0.5336039076333139
+Quartile Num: 0.3216722363269062, 0.772902092656612

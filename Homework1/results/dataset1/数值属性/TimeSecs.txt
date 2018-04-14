@@ -1,0 +1,7 @@
+Feature Name: TimeSecs
+Missing Num: 224
+Max Num: 3600.0
+Min Num: -900.0
+Average Num: 1695.390104360973
+Median Num: 1800.0
+Quartile Num: 778.0, 2585.0

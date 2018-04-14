@@ -1,0 +1,33 @@
+Permit_Number
+Permit_Type
+Permit_Type_Definition
+Permit_Creation_Date
+Block
+Lot
+Street Number 
+Street Number Suffix
+Street Name
+Street Suffix
+Unit
+Unit Suffix
+Current Status
+Current Status Date
+Filed Date
+Issued Date
+Completed Date
+First Construction Document Date
+Structural Notification
+Voluntary Soft_Story Retrofit
+Fire Only Permit
+Permit Expiration Date
+Existing Use
+Proposed Use
+TIDF Compliance
+Existing Construction Type
+Existing Construction Type Description
+Proposed Construction Type
+Proposed Construction Type Description
+Site_Permit
+Neighborhoods_Analysis_Boundaries
+Zipcode
+Record_ID

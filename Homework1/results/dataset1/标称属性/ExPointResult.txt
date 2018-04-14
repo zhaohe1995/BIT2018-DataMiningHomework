@@ -1,0 +1,7 @@
+Feature Name: ExPointResult
+Value Num: 5
+NA,397546
+Blocked,81
+Missed,172
+Aborted,7
+Made,9850

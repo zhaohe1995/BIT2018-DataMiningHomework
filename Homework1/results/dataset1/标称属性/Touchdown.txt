@@ -1,0 +1,4 @@
+Feature Name: Touchdown
+Value Num: 2
+0,395805
+1,11851

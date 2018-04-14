@@ -1,0 +1,97 @@
+Feature Name: Proposed_Use
+Value Num: 95
+amusement center,8
+residential hotel,1002
+theater,189
+r-3(dwg) nursing,4
+swimming pool,6
+christmas tree lot,18
+misc group residns.,119
+fence/retaining wall,22
+storage shed,79
+day care center,40
+day care home 7 - 12,11
+vacant lot,385
+dairies/dairy equip.,1
+sign,6
+stadium,3
+tourist hotel/motel,1601
+bath house,5
+nursing home lte 6,4
+mortuary,12
+muni carbarn,35
+museum,139
+meat/produce marts,2
+accessory cottage,5
+roofing materials,1
+moving & storage,26
+child care,25
+workshop residential,10
+Null,42439
+antenna,115
+dry cleaners,36
+car wash,5
+manufacturing,436
+club,125
+orphanage,1
+ambulance service,4
+nursing home non amb,11
+warehouse,no frnitur,674
+day care home gt 12,83
+filling/service stn,99
+sfpd or sffd station,98
+sewage plant,6
+automobile sales,74
+prkng garage/public,175
+nursing home gt 6,14
+office,23962
+food/beverage hndlng,5053
+chemical processing,9
+day care home lt 7,11
+artist live/work,443
+not applicable,1
+apartments,43032
+muni driver restroom,5
+2 family dwelling,22061
+paint store,6
+massage parlor,104
+recreation bldg,207
+prkng garage/private,102
+parking lot,67
+greenhouse,72
+wholesale sales,40
+library,33
+prson'l svc tutor,15
+radio & tv stations,36
+temple,2
+jail,6
+warehouse, furniture,65
+social care facility,47
+storage tanks,5
+printing plant,34
+power plant,82
+hospital,32
+convalescent home,16
+lending institution,239
+school,748
+health studios & gym,332
+church,434
+auto repairs,239
+workshop commercial,219
+garment shops,24
+dance hall,22
+nursery(floral),25
+retail sales,5079
+tower,11
+phone xchnge/equip,38
+animal sale or care,60
+laundry/laundromat,56
+building materials,6
+public assmbly other,228
+nite club,65
+barber/beauty salon,258
+clinics-medic/dental,678
+1 family dwelling,46346
+day care, non-res,59
+sound studio,28
+adult entertainment,5

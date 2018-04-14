@@ -1,0 +1,8 @@
+Feature Name: Proposed_Construction_Type
+Value Num: 6
+3,9360
+4,377
+2,3778
+5,114382
+1,27841
+Null,43162

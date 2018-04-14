@@ -1,0 +1,7 @@
+Feature Name: AirYards
+Missing Num: 0
+Max Num: 84.0
+Min Num: -70.0
+Average Num: 3.263835194379575
+Median Num: 0.0
+Quartile Num: 0.0, 4.0

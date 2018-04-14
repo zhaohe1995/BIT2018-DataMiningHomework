@@ -1,0 +1,7 @@
+Feature Name: Drive
+Missing Num: 0
+Max Num: 35.0
+Min Num: 1.0
+Average Num: 12.315579802578645
+Median Num: 12.0
+Quartile Num: 6.0, 18.0

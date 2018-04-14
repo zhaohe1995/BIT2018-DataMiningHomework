@@ -1,0 +1,8 @@
+Number of Existing Stories
+Number of Proposed Stories
+Estimated Cost
+Revised Cost
+Existing Units
+Proposed Units
+Plansets
+Supervisor District

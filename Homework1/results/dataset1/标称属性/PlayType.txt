@@ -1,0 +1,17 @@
+Feature Name: PlayType
+Value Num: 15
+Timeout,16203
+Punt,22002
+Sack,10649
+Quarter End,4914
+Kickoff,23402
+QB Kneel,3530
+Pass,159339
+Extra Point,10063
+No Play,21413
+Run,120822
+End of Game,1973
+Field Goal,8926
+Half End,40
+Two Minute Warning,3740
+Spike,640

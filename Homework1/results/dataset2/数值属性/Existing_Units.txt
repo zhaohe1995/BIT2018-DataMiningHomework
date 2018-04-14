@@ -1,0 +1,7 @@
+Feature Name: Existing_Units
+Missing Num: 51538
+Max Num: 1907.0
+Min Num: 0.0
+Average Num: 15.666164275729155
+Median Num: 1.0
+Quartile Num: 1.0, 4.0

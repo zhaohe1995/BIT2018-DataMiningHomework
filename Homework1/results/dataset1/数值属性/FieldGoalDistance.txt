@@ -1,0 +1,7 @@
+Feature Name: FieldGoalDistance
+Missing Num: 398710
+Max Num: 71.0
+Min Num: 18.0
+Average Num: 37.46803040465012
+Median Num: 38.0
+Quartile Num: 29.0, 46.0

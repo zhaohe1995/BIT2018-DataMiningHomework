@@ -1,0 +1,16 @@
+Feature Name: Current_Status
+Value Num: 14
+cancelled,1536
+incomplete,2
+plancheck,16
+filed,12043
+reinstated,563
+appeal,2
+complete,97077
+issued,83559
+approved,733
+expired,1370
+revoked,50
+disapproved,2
+suspend,193
+withdrawn,1754

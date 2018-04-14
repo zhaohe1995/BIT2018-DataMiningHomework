@@ -1,0 +1,5 @@
+Feature Name: TwoPointConv
+Value Num: 3
+NA,407051
+Failure,322
+Success,283

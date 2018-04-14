@@ -1,0 +1,7 @@
+Feature Name: Qtr
+Missing Num: 0
+Max Num: 5.0
+Min Num: 1.0
+Average Num: 2.5773004690229016
+Median Num: 3.0
+Quartile Num: 2.0, 4.0

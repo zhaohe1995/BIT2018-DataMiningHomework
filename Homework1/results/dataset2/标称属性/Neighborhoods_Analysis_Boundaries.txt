@@ -1,0 +1,44 @@
+Feature Name: Neighborhoods_Analysis_Boundaries
+Value Num: 42
+Portola,1433
+McLaren Park,46
+Hayes Valley,5489
+Potrero Hill,4293
+Seacliff,992
+Twin Peaks,1702
+Null,1725
+Tenderloin,4783
+Japantown,700
+Golden Gate Park,64
+Marina,8244
+Russian Hill,5495
+North Beach,4054
+Western Addition,3867
+Inner Richmond,4458
+Inner Sunset,5776
+Outer Richmond,7854
+Bernal Heights,6067
+West of Twin Peaks,8739
+Nob Hill,6009
+Excelsior,3072
+Financial District/South Beach,21816
+Presidio,51
+Treasure Island,81
+Lakeshore,1308
+Visitacion Valley,900
+Lone Mountain/USF,3358
+Oceanview/Merced/Ingleside,2654
+Pacific Heights,8508
+Presidio Heights,4084
+Sunset/Parkside,10207
+Bayview Hunters Point,5669
+Lincoln Park,49
+Noe Valley,7844
+Castro/Upper Market,8527
+Haight Ashbury,5798
+Mission,14681
+Outer Mission,2242
+Glen Park,2637
+Chinatown,3765
+South of Market,7572
+Mission Bay,2287

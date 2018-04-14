@@ -1,0 +1,7 @@
+Feature Name: ScoreDiff
+Missing Num: 24984
+Max Num: 59.0
+Min Num: -59.0
+Average Num: -1.1865906050089894
+Median Num: 0.0
+Quartile Num: -7.0, 4.0

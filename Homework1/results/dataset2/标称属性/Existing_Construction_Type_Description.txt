@@ -1,0 +1,8 @@
+Feature Name: Existing_Construction_Type_Description
+Value Num: 6
+constr type 1,28072
+constr type 2,4068
+constr type 3,9663
+wood frame (5),113350
+constr type 4,381
+Null,43366

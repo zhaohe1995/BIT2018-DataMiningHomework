@@ -1,0 +1,6 @@
+Feature Name: PassLength
+Value Num: 4
+NA,240503
+Short,134718
+Deep,32434
+20,1

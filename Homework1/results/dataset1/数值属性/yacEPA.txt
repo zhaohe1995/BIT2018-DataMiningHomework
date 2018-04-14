@@ -1,0 +1,7 @@
+Feature Name: yacEPA
+Missing Num: 248480
+Max Num: 9.559834110152996
+Min Num: -14.0
+Average Num: -0.38599585034961725
+Median Num: 0.0
+Quartile Num: -0.9607743098773476, 0.4855489708834824

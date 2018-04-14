@@ -1,0 +1,7 @@
+Feature Name: Field_Goal_Prob
+Missing Num: 176
+Max Num: 0.9946049468805124
+Min Num: 0.0
+Average Num: 0.243904332882429
+Median Num: 0.23131320941386552
+Quartile Num: 0.15244319191134612, 0.3261302281363723

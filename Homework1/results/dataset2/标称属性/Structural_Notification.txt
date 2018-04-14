@@ -1,0 +1,4 @@
+Feature Name: Structural_Notification
+Value Num: 2
+Y,6922
+Null,191978

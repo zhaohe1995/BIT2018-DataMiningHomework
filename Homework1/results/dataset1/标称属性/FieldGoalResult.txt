@@ -1,0 +1,6 @@
+Feature Name: FieldGoalResult
+Value Num: 4
+NA,398599
+Blocked,205
+Good,7580
+No Good,1272

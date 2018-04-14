@@ -1,0 +1,7 @@
+Feature Name: Ydsnet
+Missing Num: 0
+Max Num: 99.0
+Min Num: -87.0
+Average Num: 25.945505524265556
+Median Num: 19.0
+Quartile Num: 5.0, 43.0

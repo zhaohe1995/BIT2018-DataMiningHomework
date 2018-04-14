@@ -1,0 +1,7 @@
+Feature Name: Revised_Cost
+Missing Num: 6066
+Max Num: 780500000.0
+Min Num: 0.0
+Average Num: 132856.18649174884
+Median Num: 7000.0
+Quartile Num: 1.0, 28725.0

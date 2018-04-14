@@ -1,0 +1,7 @@
+Feature Name: Number_of_Existing_Stories
+Missing Num: 42784
+Max Num: 78.0
+Min Num: 0.0
+Average Num: 5.705773271157344
+Median Num: 3.0
+Quartile Num: 2.0, 4.0

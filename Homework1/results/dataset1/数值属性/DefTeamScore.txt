@@ -1,0 +1,7 @@
+Feature Name: DefTeamScore
+Missing Num: 26900
+Max Num: 61.0
+Min Num: 0.0
+Average Num: 11.414795827248946
+Median Num: 10.0
+Quartile Num: 3.0, 17.0

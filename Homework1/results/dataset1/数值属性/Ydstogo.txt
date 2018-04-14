@@ -1,0 +1,7 @@
+Feature Name: Ydstogo
+Missing Num: 0
+Max Num: 50.0
+Min Num: 0.0
+Average Num: 7.309393213886218
+Median Num: 9.0
+Quartile Num: 3.0, 10.0

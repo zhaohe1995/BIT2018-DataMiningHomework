@@ -1,0 +1,7 @@
+Feature Name: Posteam_timeouts_pre
+Missing Num: 0
+Max Num: 3.0
+Min Num: 0.0
+Average Num: 2.5213194458072494
+Median Num: 3.0
+Quartile Num: 2.0, 3.0

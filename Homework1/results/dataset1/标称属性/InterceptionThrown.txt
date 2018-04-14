@@ -1,0 +1,4 @@
+Feature Name: InterceptionThrown
+Value Num: 2
+0,403134
+1,4522

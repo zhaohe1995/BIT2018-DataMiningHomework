@@ -1,0 +1,7 @@
+Feature Name: yacWPA
+Missing Num: 248744
+Max Num: 1.0
+Min Num: -0.9866729593758184
+Average Num: -0.010473917106350565
+Median Num: 0.0
+Quartile Num: -0.018673426296284313, 0.01143044959354586

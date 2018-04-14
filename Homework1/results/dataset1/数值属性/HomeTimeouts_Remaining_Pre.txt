@@ -1,0 +1,7 @@
+Feature Name: HomeTimeouts_Remaining_Pre
+Missing Num: 0
+Max Num: 3.0
+Min Num: -3.0
+Average Num: 2.540600408187295
+Median Num: 3.0
+Quartile Num: 2.0, 3.0

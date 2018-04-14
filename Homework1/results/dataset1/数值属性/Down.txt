@@ -1,0 +1,7 @@
+Feature Name: Down
+Missing Num: 61149
+Max Num: 4.0
+Min Num: 1.0
+Average Num: 2.0024876842314874
+Median Num: 2.0
+Quartile Num: 1.0, 3.0

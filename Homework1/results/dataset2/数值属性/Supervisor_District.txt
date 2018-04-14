@@ -1,0 +1,7 @@
+Feature Name: Supervisor_District
+Missing Num: 1717
+Max Num: 11.0
+Min Num: 1.0
+Average Num: 5.538403412058849
+Median Num: 6.0
+Quartile Num: 3.0, 8.0

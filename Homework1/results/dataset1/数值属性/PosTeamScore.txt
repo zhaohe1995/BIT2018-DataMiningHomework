@@ -1,0 +1,7 @@
+Feature Name: PosTeamScore
+Missing Num: 26900
+Max Num: 61.0
+Min Num: 0.0
+Average Num: 10.201732868293606
+Median Num: 7.0
+Quartile Num: 2.0, 16.0
