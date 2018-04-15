@@ -1,6 +1,5 @@
 # -*- coding:UTF-8 -*-
 """
-Some parameters and GLOBAL VARs
 @author: ZhaoHe
 """
 
