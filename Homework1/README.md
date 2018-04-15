@@ -15,7 +15,7 @@ BIT2018-DataMiningHomework/Homework1/
 &emsp;&emsp;&emsp;&emsp;--histogram  
 &emsp;&emsp;&emsp;--标称属性  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 标称属性结果目录  
 &emsp;&emsp;&emsp;--数值属性  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 数值属性结果目录  
-&emsp;&emsp;--imputed_figures &emsp;&emsp;&emsp;&emsp;# 缺失值填补结果目录  
+&emsp;&emsp;--imputed_figures &emsp;&emsp;&emsp;&emsp;&emsp;# 缺失值填补结果目录  
 &emsp;&emsp;&emsp;--strategy*  
 &emsp;&emsp;&emsp;&emsp;--box  
 &emsp;&emsp;&emsp;&emsp;--q-q  
