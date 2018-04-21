@@ -10,9 +10,9 @@ class Association(object):
         1）找出所有频繁项集
         2）由频繁项集产生强关联规则
     """
-    def __init__(self, min_support = 0.2, min_confidence = 0.2):
+    def __init__(self, min_support = 0.01, min_confidence = 0.5):
         self.min_support = min_support         # 最小支持度
-        self.min_confidence = min_confidence   # 最小置信度
+        self.min_confidence = min_confidence   #  最小置信度
 
     def apriori(self, dataset):
         """
@@ -28,6 +28,7 @@ class Association(object):
         while len(L[k-2]) > 0:
             Ck = self.apriori_gen(L[k-2], k)
             Lk, support_k = self.scan_D(dataset, Ck)
+            print(Lk)
             support_data.update(support_k)
             L.append(Lk)
             k += 1

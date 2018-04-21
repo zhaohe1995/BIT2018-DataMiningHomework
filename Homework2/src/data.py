@@ -3,7 +3,7 @@
 @author: ZhaoHe
 """
 import os
-from src.config import host, port, user, passwd, dbname, dataset1_table_name
+from src.config import host, port, user, passwd, dbname, dataset2_table_name
 from src.association import Association
 import pymysql as mdb
 import json
@@ -16,10 +16,10 @@ class Data(object):
         self.cursor = self.conn.cursor()
 
         # 属性列名文件路径
-        self.dataset1_nom_col_path = r'./data/dataset1/关联分析属性列名.txt'
+        self.dataset2_nom_col_path = r'./data/dataset2/关联分析属性列名.txt'
 
         # 属性名列表
-        self.dataset1_nom_feature_list = self.get_feature_list(self.dataset1_nom_col_path)
+        self.dataset2_nom_feature_list = self.get_feature_list(self.dataset2_nom_col_path)
 
         # 结果文件路径
         self.result_path = r'./results'
@@ -60,7 +60,7 @@ class Data(object):
         :param table_name: 数据集对应的表名
         :return: 一个字典，key为所有可能取值，value为取值对应的个数
         """
-        table_name = dataset1_table_name
+        table_name = dataset2_table_name
         out_path = self.result_path
         association = Association()
 

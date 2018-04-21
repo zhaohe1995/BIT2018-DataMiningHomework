@@ -10,4 +10,4 @@ port = 3306
 user = "root"
 passwd = "1995328"
 dbname = "datamininghomework"
-dataset1_table_name = "play_by_play"
+dataset2_table_name = "building_permits"

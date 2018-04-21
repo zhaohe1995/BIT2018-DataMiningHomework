@@ -1,0 +1,11 @@
+Permit_Type
+Current Status
+Existing Construction Type
+Proposed Construction Type
+Neighborhoods_Analysis_Boundaries
+Zipcode
+Existing_Construction_Type
+Existing_Use
+Proposed_Use
+Fire_Only_Permit
+Site_Permit
