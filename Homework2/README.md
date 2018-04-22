@@ -8,9 +8,9 @@ BIT2018-DataMiningHomework/Homework1/
 &emsp;--data  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 数据（属性名文件）目录  
 &emsp;&emsp;--dataset*  
 &emsp;--results  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 结果文件目录  
-&emsp;&emsp;--freq_set.json  
-&emsp;&emsp;--rules.json  
-&emsp;--src  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 源码目录  
+&emsp;&emsp;--freq_set.json     
+&emsp;&emsp;--rules.json      
+&emsp;--src  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 源码目录     
 &emsp;&emsp;\_\_init\_\_.py  
 &emsp;&emsp;config.py  
 &emsp;&emsp;associasionr.py  
