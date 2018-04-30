@@ -4,7 +4,7 @@ python 3.5.2
 pymysql、numpy、
 
 ### 2. 项目结构
-BIT2018-DataMiningHomework/Homework1/  
+BIT2018-DataMiningHomework/Homework2/  
 &emsp;--data  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 数据（属性名文件）目录  
 &emsp;&emsp;--dataset*  
 &emsp;--results  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 结果文件目录  
