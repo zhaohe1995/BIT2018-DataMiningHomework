@@ -4,7 +4,7 @@ python 3.5.2
 sklearn、xgb、numpy
 
 ### 2. 项目结构
-BIT2018-DataMiningHomework/Homework1/  
+BIT2018-DataMiningHomework/Homework3/  
 &emsp;--data  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 数据目录  
 &emsp;&emsp;--submissions  &emsp;&emsp;&emsp;&emsp;&emsp;# 提交预测结果目录  
 &emsp;--images  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 可视化图目录  
